@@ -154,7 +154,7 @@ namespace ThrowWindowParty
 - 1/96 인치이며 96dpi일때 실제 픽셀 값과 동일하다
 - 1/96 * DPI 값
 - 해상도에 상관없이 동일한 크기로 보여줄 수 있음
-- `Parameters.PrimaryScreenWidth` `Parameters.PrimaryScreenHeight`는 화면 크기를 논리 픽셀 단위로 나타낸다
+- `SystemParameters.PrimaryScreenWidth` `SystemParameters.PrimaryScreenHeight`는 화면 크기를 논리 픽셀 단위로 나타낸다
 - `SystemParameters.WorkArea` 는 작업표시줄 영역을 `Rect` 타입으로 반환한다
 
 ### 각종 옵션
